@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshWardhanDataA
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning SQL
+- 🌱 I’m working as a SQL Developer
 - 💞️ I’m looking to collaborate on projects for data analysis.
 - 📫 How to reach me on my mail id :- wardhan071@gmail.com
 
